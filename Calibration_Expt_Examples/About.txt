@@ -1,1 +1,5 @@
-
+Representative Examples of the Experimental Calibration Process. 
+Each of the two examples bears: 
+(i) the video file of the calibration experiment attempt.
+(ii) the corresponding Tracker file, with the annotated data points. 
+(iii) the Excel file bearing the calibration analysis and the surface constants deduced.
