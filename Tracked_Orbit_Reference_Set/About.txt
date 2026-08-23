@@ -1,1 +1,8 @@
+The reference orbital trajectory of the marble, used in the work. 
 
+This folder contains:
+(i)   The original video file for the marble trajectory. 
+(ii)  The corresponding Tracker file.
+(iii) Excel file bearing the extracted coordinates using Tracker.
+
+This very Excel file is imported into the Scilab code for computational analysis of the trajectory. 
