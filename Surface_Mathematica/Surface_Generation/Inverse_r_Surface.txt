@@ -1,6 +1,7 @@
 (* ----------------------------
 Code for Generation of STL file corresponding to z = 1/r surface, for \
 3D printing the same.
+These two lines of code constitute the Mathematica nb file for generation of 1/r surface, and its STL file.
 ---------------------------------------------------------------------------------------- \
 *)
 
