@@ -1,0 +1,7 @@
+Scilab figures. 
+Interactive versions made available as scg files (Scilab graphics). 
+Right click (hold), and use cursor to interact (rotate/move). 
+Also available in this folder are the static pdf versions of the figures as used in the text.
+
+Figures made using Scilab code available in the Code folder. 
+Scilab 2025.1.0 version was used in making these figures.
