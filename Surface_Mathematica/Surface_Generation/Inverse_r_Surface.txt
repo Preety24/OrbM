@@ -1,0 +1,12 @@
+(* ----------------------------
+Code for Generation of STL file corresponding to z = 1/r surface, for \
+3D printing the same.
+---------------------------------------------------------------------------------------- \
+*)
+
+
+Obj3D = Plot3D[1/(x^2 + y^2)^{1/2}, {x, -2, 2}, {y, -2, 2}, 
+  RegionFunction -> Function[{x, y, z}, x^2 + y^2 > 0.05], 
+  Filling -> {1 -> {Top, ColorData[97][2]}}]
+
+Export["Obj3D.stl", Obj3D]
