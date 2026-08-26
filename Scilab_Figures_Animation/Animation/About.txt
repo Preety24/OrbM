@@ -1,0 +1,5 @@
+Animation for the Marble motion in the reference trajectory. 
+
+Made from the Scilab code available in the Code folder itself. Scilab 2025.1.0 version used for this.
+
+GIF made using AnimaGIF in Scilab.
