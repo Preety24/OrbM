@@ -1,4 +1,5 @@
 Scilab figures. 
+(Figs 6(a), 6(b), and 7 used in the article).
 Interactive versions made available as scg files (Scilab graphics). 
 Right click (hold), and use cursor to interact (rotate/move). 
 Also available in this folder are the static pdf versions of the figures as used in the text.
