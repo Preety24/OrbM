@@ -1,1 +1,3 @@
+Scilab code for calculations, plots and animations in this work. 
 
+Scilab 2025.1.0 version was used for this.
